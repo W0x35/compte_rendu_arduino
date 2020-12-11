@@ -1,0 +1,103 @@
+.presentation{
+    width: 100%;
+    height: 100%;
+    background-color: #121a1b
+}
+.presentation header{
+    text-align: center;
+    vertical-align: auto;
+    line-height: 45px;
+    font-size: 45px;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;  
+}
+
+.t1{
+  color: white;
+  font-size: 20px;
+  letter-spacing: normal;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  align-items: center;
+  width: 650px;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  
+}
+
+ .arduinoimg{
+    width: 650px;
+    margin: auto;
+    display: flex;
+    transition: transform .3s ease;
+    padding-bottom: 8%;
+ }
+
+ .arduinoimg:hover{
+    transition-duration:  0.3s ;
+    transform: scale(1.1);
+}
+
+.cimg{
+    width: 340px;            
+    margin: auto;
+    display: flex;
+    transition: transform .3s ease;
+    padding-bottom: 6%;
+ }
+
+ .cimg:hover{
+    transition-duration:  0.3s ;
+    transform: scale(1.1);
+}
+
+.interfaceimg{
+    width: 650px;
+    margin: auto;
+    display: flex;
+    transition: transform .3s ease;
+    padding-bottom: 8%;
+ }
+
+ .interfaceimg:hover{
+    transition-duration:  0.3s ;
+    transform: scale(1.6);
+}
+
+.proteusimg{
+    width: 450px;            
+    margin: auto;
+    display: flex;
+    transition: transform .3s ease;
+    padding-bottom: 6%;
+ }
+
+ .proteusimg:hover{
+    transition-duration:  0.3s ;
+    transform: scale(1.1);
+}
+ 
+ 
+ .copyright{
+     width: 100%;
+     height: 8vh;
+     background-color: #252F31;
+     text-align: center;
+     line-height: 12px;
+     font-family: 'Poppins', sans-serif;
+     font-size: 12px;
+     color: #00969e;
+     padding-top:25px;
+     
+ }
+ 
+
+
+
+
+
+
+
+
